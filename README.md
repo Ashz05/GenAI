@@ -40,7 +40,7 @@ This project uses the pre-trained **DistilBART** model (`sshleifer/distilbart-cn
 ---
 
 ## 📂 Project Structure
-->Create an Environment variable to the code (python version used 3.13.3)
+->Create an Environment variable to the code (python version used 3.13.3)\n
 ->textsummary.py - Which contains code to summarize the text provided by the user
 ->Model - Create a folder (eg:"Model") , Ensure the model dataset is in the code file
 ->import all the neccessary modules which are provided in the requirement files 
